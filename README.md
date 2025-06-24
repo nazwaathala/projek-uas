@@ -34,7 +34,7 @@ Sebagai bagian dari ujian akhir semester, saya, **Nama kalian (NIM: 241730017)**
 ## 🔗 Live Preview
 
 > Klik tautan berikut untuk melihat langsung website-nya:
-🌍 [Lihat Website Awiee CoffeeShop](https://nazwaathali.github.io/tugas-uas/)
+🌍(https://nazwaathali.github.io/tugas-uas/)
 
 ---
 
