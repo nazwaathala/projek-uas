@@ -1,4 +1,4 @@
-# ☕ nazwaathali | Ujian Akhir Semester - Pengenalan Pemrograman
+# NAZWAATHALI| Ujian Akhir Semester - Pengenalan Pemrograman
 
 ![Banner](banner.png)
 
